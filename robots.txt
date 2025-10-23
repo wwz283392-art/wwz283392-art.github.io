@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wwz283392-art.github.io//sitemap.xml
